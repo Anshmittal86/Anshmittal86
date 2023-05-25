@@ -1,1 +1,5 @@
-# Ansh-Mittal
+### Hi, there 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="100"/>
+</div>
