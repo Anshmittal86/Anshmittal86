@@ -5,19 +5,16 @@
     <a href="https://www.linkedin.com/in/anshmittal86/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://codepen.io/Ansh_mittal">
       <img src="https://img.shields.io/badge/codepen-black?logo=codepen&logoColor=white" alt="Codepen Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-      <a href="your-twitter-URL">
+      <a href="https://www.instagram.com/anshmittal_official/">
         <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
   </div>
   
   <div class="profile-counter">
-    <img src="https://komarev.com/ghpvc/?username=Anshmittal86&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Anshmittal86&style=flat-square&color=blue" alt="Profile counter"/>
   </div>
   
   <h1>
