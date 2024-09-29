@@ -31,10 +31,10 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
 
 
-- :telescope: I want working as a frontend for building awesome web applications.
+- :telescope: I want working as a developer for building awesome web applications.
 
 - :seedling: Performance optimization, web accessbility and Responsive.
 
