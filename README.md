@@ -31,12 +31,12 @@
 
 ### :man_technologist: About Me :
 
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
+I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
 
 
-- :telescope: I want working as a developer for building awesome web applications.
+- :telescope: I am working coding Instructor right now.I like to build projects using AI with implementing great feature.
 
-- :seedling: Performance optimization, web accessbility and Responsive.
+- :seedling: I have a best knowledge of frontend development and JavaScript expertise.
 
 - :zap: In my free time, I solve problems on frontend Mentor , frontend practice and read/write tech articles.
 
