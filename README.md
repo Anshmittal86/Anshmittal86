@@ -31,14 +31,14 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
+I am a Frontend Web and GenAI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
 
 
-- :telescope: I am working coding Instructor right now.I like to build projects using AI with implementing great feature.
+- :telescope: I like to build projects along with AI Functionlity.
 
-- :seedling: I have a best knowledge of frontend development and JavaScript expertise.
+- :seedling: I have a best knowledge of frontend development, JavaScript and Generative AI.
 
-- :zap: In my free time, I solve problems on frontend Mentor , frontend practice and read/write tech articles.
+- :zap: In my free time, I solve problems on frontend Mentor, frontend practice and read/write tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshmittal86/)
 
@@ -50,12 +50,13 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" title="reactjs" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindCSS" title="tailwindCSS" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" title="Github" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" title="NPM" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" title="NodeJs" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" title="Express" width="50" height="50">
+  
 </div>
 
 ---
