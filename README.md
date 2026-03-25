@@ -31,14 +31,14 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Web and GenAI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
+I am a Sotfware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
 
 
 - :telescope: I like to build projects along with AI Functionlity.
 
-- :seedling: I have a best knowledge of frontend development, JavaScript and Generative AI.
+- :seedling: I have a good expertise in frontend development, backend integration and Generative AI Development.
 
-- :zap: In my free time, I solve problems on frontend Mentor, frontend practice and read/write tech articles.
+- :zap: In my free time, I solve problems on frontend Mentor, build and scale my side projects, read and learn new technology.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshmittal86/)
 
@@ -50,13 +50,12 @@ I am a Frontend Web and GenAI Developer <img src="https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" title="reactjs" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindCSS" title="tailwindCSS" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" title="Github" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" title="NPM" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" title="NodeJs" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" title="Express" width="50" height="50">
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS" title="Express" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" title="reactjs" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJs" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS" width="50" height="50">
 </div>
 
 ---
