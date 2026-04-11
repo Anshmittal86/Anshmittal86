@@ -31,7 +31,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Sotfware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
+I am a Sotfware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from India.
 
 
 - :telescope: I like to build projects along with AI Functionlity.
@@ -47,15 +47,20 @@ I am a Sotfware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindCSS" title="tailwindCSS" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS" title="Express" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" title="reactjs" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJs" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SCSS" title="SCSS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Github" title="GitHub" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindCSS" title="tailwindCSS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS" title="Express" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" title="reactjs" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJs" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS" width="40" height="40">
 </div>
 
 ---
